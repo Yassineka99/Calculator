@@ -1,0 +1,151 @@
+#calculator{
+    position:absolute;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px; 
+    border-bottom-left-radius:  10px;
+    border-bottom-right-radius:  10px;
+margin:50px;
+background-color:#BDC3CB;
+height:333px;
+width:655px;
+
+}
+
+#ss{    
+    
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color:black ;
+    color:white;
+    height: 80px;
+    width:99%;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-right:90%;
+
+
+}
+
+button{
+    
+    background-color:#DCD2CC;
+    width:160px;
+    height:60px;
+    border-radius:10px;
+    font-size:30px;
+}
+
+ 
+
+
+#zero{
+    position:fixed;
+    top:204px;
+    left:550.5px;
+
+}
+
+#one{
+    position:fixed;
+    left:60px;
+    top:327px;
+}
+#two{
+    position:fixed;
+    left:223.5px;
+    top:327px;
+}
+#three{ 
+    left:387px;
+    position:fixed;
+    top:327px;
+}
+#four{
+    position:fixed;
+    left:60px;
+    top:265px
+}
+#five{
+    position:fixed;
+    top:265px;
+    left:223.5px;
+}
+#six{
+    position:fixed;
+    top:265px;
+    left:387px;
+
+}
+#seven{
+    position:fixed;
+    top:204px;
+    left:60px;
+
+    
+
+}
+#eight{
+    position:fixed;
+    top:204px;
+    left:223.5px
+}
+
+#nine{
+position:fixed;
+top:204px;
+left:387px
+}
+#plus{
+    position: fixed;
+    left:60px;
+    
+
+}
+
+#res{
+    position: fixed;
+    left:550.5px;
+  
+}
+#point{
+    position:fixed;
+    top:265px;
+    left:550.5px;
+
+
+}  
+#inus{
+    position:fixed;
+    top:327px;
+    left:633px;
+    width:80px;
+
+}
+#clear{
+    position:fixed;
+    top:327px;
+    left:550.5px;
+    width:80px;
+}
+#mul{
+    position:fixed;
+    left:387px;
+
+}
+#divi
+{
+    position:fixed;
+    left:223.5px;
+
+}
+
+
+
+button:hover{
+    background-color:#CCAFA5 ;
+}
+body{
+    background-color: #EDE7DC;
+}
